@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Anil",
+      "age": "21",
+      "add": "kalpna nagar",
+      "dep": "",
+      "salary": "55555",
+      "marital": false,
+      "id": 1
+    },
+    {
+      "title": "Suraj",
+      "age": "20",
+      "add": "bhopal",
+      "dep": "",
+      "salary": "20000",
+      "marital": false,
+      "id": 2
+    }
+  ]
+}
